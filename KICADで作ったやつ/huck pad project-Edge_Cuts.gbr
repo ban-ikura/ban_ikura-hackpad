@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.3*%
+%TF.CreationDate,2026-06-11T23:10:01+09:00*%
+%TF.ProjectId,huck pad project,6875636b-2070-4616-9420-70726f6a6563,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.3) date 2026-06-11 23:10:01*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X141000000Y-65000000D02*
+X168250000Y-65000000D01*
+X168250000Y-125500000D01*
+X141000000Y-125500000D01*
+X141000000Y-65000000D01*
+M02*
